@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My Linear Algebra Blog</title>
+</head>
+<body>
+  <h1>My Linear Algebra Blog</h1>
+  <p>Welcome! I’m learning linear algebra and sharing what I learn.</p>
+
+  <h2>First topic: Vectors</h2>
+  <p>A vector is an ordered list of numbers. For example, (3, 2) can describe
+  moving 3 steps east and 2 steps north.</p>
+</body>
+</html>
